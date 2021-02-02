@@ -12,3 +12,16 @@
  * A rainbow shows up as a spectrum of light: a band of familiar colors that include red, orange, yellow, green, blue, and violet.
  * The name "Roy G. Biv" is an easy way to remember the colors of the rainbow, and the order in which they appear: red, orange, yellow, green, blue, indigo, and violet.
  ![picture](AboutMe.md)
+ 
+ ********** 
+
+# Places to visit in Hyderabad
+ 
+> The locations given in the below table are the historical places for the toursist to visit when in Hyderabad.
+
+| Location         | No. of hours | Amount |
+|------------------|--------------|--------|
+| Charminar        | 1 hour       | $15    |
+| Tank Band        | 3 hours      | $50    |
+| Ramoji Film City | 8 hours      | $70    |
+| Golkonda Fort    | 4 hours      | $50    |
