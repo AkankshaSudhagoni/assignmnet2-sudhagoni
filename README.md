@@ -9,3 +9,5 @@
  1.  Indeed, it is impossible for an observer to see a rainbow from water droplets at any angle other than the customary one of 42 degrees from the direction opposite the light source
  2. Even if an observer sees another observer who seems "under" or "at the end of" a rainbow.
  3. The second observer will see a different rainbow—farther off—at the same angle as seen by the first observer.
+ * A rainbow shows up as a spectrum of light: a band of familiar colors that include red, orange, yellow, green, blue, and violet.
+ * The name "Roy G. Biv" is an easy way to remember the colors of the rainbow, and the order in which they appear: red, orange, yellow, green, blue, indigo, and violet.
