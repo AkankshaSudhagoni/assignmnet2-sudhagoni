@@ -25,3 +25,13 @@
 | Tank Band        | 3 hours      | $50    |
 | Ramoji Film City | 8 hours      | $70    |
 | Golkonda Fort    | 4 hours      | $50    |
+
+*********************************************************************
+
+  #  Pithy Quotes
+   
+   > “Too many people are hungry not because there is dearth of food. It is because there is dearth of love and care in human hearts.”
+  > *― Sadhguru Jaggi Vasudev*
+
+  > "Passion is an unmatched fuel. Add being happy to that and you have a wonderful formula for good health.”
+   > *― Gary Vaynerchuk*
