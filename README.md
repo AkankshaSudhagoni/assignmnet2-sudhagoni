@@ -11,3 +11,5 @@
  3. The second observer will see a different rainbow—farther off—at the same angle as seen by the first observer.
  * A rainbow shows up as a spectrum of light: a band of familiar colors that include red, orange, yellow, green, blue, and violet.
  * The name "Roy G. Biv" is an easy way to remember the colors of the rainbow, and the order in which they appear: red, orange, yellow, green, blue, indigo, and violet.
+ ![picture](Aboutme.md)
+ 
