@@ -26,6 +26,10 @@
 | Ramoji Film City | 8 hours      | $70    |
 | Golkonda Fort    | 4 hours      | $50    |
 
+
+
+
+
 *********************************************************************
 
   #  Pithy Quotes
@@ -35,3 +39,4 @@
 
   > "Passion is an unmatched fuel. Add being happy to that and you have a wonderful formula for good health.”
    > *― Gary Vaynerchuk*
+    
