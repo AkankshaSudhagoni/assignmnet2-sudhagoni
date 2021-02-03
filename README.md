@@ -62,5 +62,4 @@
     (+ (fibonacci (- N 1)) (fibonacci (- N 2)))))
 
     ```
-    source link 
 <https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/1/tutorial1.html>
