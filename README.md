@@ -29,10 +29,10 @@
 
 
 
-![charmiar](Charminar-Hyderabad.webp)
-![Tank Band](Buddha-Statue1.jpg)
-![Ramoji Flim city](ramojiflimcity.jpg)
-![Golkonda Fort](golkondafort.jpg)
+![charmiar](images/Charminar-Hyderabad.webp)
+![Tank Band](images/Buddha-Statue1.jpg)
+![Ramoji Flim city](images/ramojiflimcity.jpg)
+![Golkonda Fort](images/golkondafort.jpg)
 
 
 
