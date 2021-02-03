@@ -46,3 +46,21 @@
   > "Passion is an unmatched fuel. Add being happy to that and you have a wonderful formula for good health.”
    > *― Gary Vaynerchuk*
     
+    ----------------------------------------------------
+
+ # Code Fencing 
+
+ > Object Lisp was a computer programming language, a dialect of the Lisp language. It was an object-oriented extension for the Lisp dialect Lisp Machine Lisp, designed by Lisp Machines, Inc. Object Lisp was also an early example of prototype-based programming.
+  
+  <https://en.wikipedia.org/wiki/Object_Lisp>
+
+```
+(defun fibonacci (N)
+  "Compute the N'th Fibonacci number."
+  (if (or (zerop N) (= N 1))
+      1
+    (+ (fibonacci (- N 1)) (fibonacci (- N 2)))))
+
+    ```
+    source link 
+<https://www2.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/1/tutorial1.html>
