@@ -32,7 +32,7 @@
 ![charmiar](images/charminar.jpg)
 ![Tank Band](images/budda.jpg)
 ![Ramoji Flim city](images/ramojiflimcity.jpg)
-![Golkonda Fort](images/ramojiflimcity.jpg)
+![Golkonda Fort](images/golkonda fort.jpg)
 
 
 
